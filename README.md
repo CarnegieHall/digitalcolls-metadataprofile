@@ -1,7 +1,5 @@
 # Carnegie Hall Digital Collections Metadata Application Profile
 
-Site link: https://kgrons.github.io/TEST-map/
-
 ## Overview
 
 *Last updated: April 2018*
@@ -26,9 +24,9 @@ CH Archives welcomes your thoughts, questions, and recommendations.
 
 ### Add or Comment on Topics
 
-Anyone is welcome to start a new topic ("issue") by selecting the `Issues` tab in GitHub and clicking [New Issue](https://github.com/carnegiehall/). UPDATE LINK
+Anyone is welcome to start a new topic ("issue") by selecting the `Issues` tab in GitHub and clicking the green [New Issue](https://github.com/CarnegieHall/digitalcolls-metadataprofile/issues) button in the upper right.
 
-All existing issues, open and closed, may be reviewed or commented upon in the [Issues](https://github.com/carnegiehall/) section. UPDATE LINK
+All existing issues, open and closed, may be reviewed or commented upon in the [Issues](https://github.com/CarnegieHall/digitalcolls-metadataprofile/issues) section.
 
 ### Contact the Archives
 
