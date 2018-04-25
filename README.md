@@ -2,7 +2,7 @@
 
 ## Site Link
 
-https://carnegiehall.github.io/digitalcolls-metadataprofile/
+[https://carnegiehall.github.io/digitalcolls-metadataprofile/](https://carnegiehall.github.io/digitalcolls-metadataprofile/)
 
 ## Overview
 
