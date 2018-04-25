@@ -202,7 +202,7 @@ Each element is presented in a table format under Element Details. Directly belo
 
 |**Element:**|Digital Accession Date|
 |-----------------------|---------------------------------------------------------------------------|
-|**Description**|Date resource was uploaded/ingested to Carnegie Hall to provides a clear delineation point for the assumption of responsibility for the digital content's preservation. |
+|**Description**|Date resource was uploaded/ingested to Carnegie Hall to provide a clear delineation point for the assumption of responsibility for the digital content’s preservation. |
 |**Obligation**|Mandatory (if applicable)|
 |**Repeatable?**|No|
 |**Range**|Date|
