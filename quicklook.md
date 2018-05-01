@@ -10,8 +10,8 @@ See details on the [Elements page](/elements.md).
 | **Content Type**                      | Required                  |
 | **Department**                        | Required                  |
 | **Height**                            | Required                  |
-| **Parent Folder**                     | Required                  |
 | **Purpose**                           | Required                  |
+| **Relationship Indicator**            | Required                  |
 | **Size**                              | Required                  |
 | **Source**                            | Required                  |
 | **Subtype**                           | Required                  |
