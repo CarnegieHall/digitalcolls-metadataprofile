@@ -6,7 +6,7 @@
 
 ## Overview
 
-*Last updated: April 2018*
+*Last updated: December 2018*
 
 This profile describes metadata elements for item-level asset records created and managed by the [Carnegie Hall Archives](https://www.carnegiehall.org/About/History) for its Digital Collections. The purpose of establishing this profile is to document current metadata standards, cataloging procedures, and controlled vocabularies to allow for self-assessment and interoperability across cultural institutions. Future additions to this profile will include mapping to DPLA properties, Dublin Core, and other appropriate metadata schemas. 
 
