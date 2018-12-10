@@ -31,7 +31,7 @@ Each element is presented in a table format under Element Details. Directly belo
 |**Repeatable?**|Yes|
 |**Range**|Controlled text string|
 |**Input Guidelines**|The type of asset or what the asset depicts. For example, the content type can be as concrete as "flyer" or "3-sheet," or it can describe the specific event taking place with keywords such as "interview" or "workshop recording."|
-|**Controlled Vocabulary**|PBCoreAssetType Vocabulary, PBCore @descriptionType Vocabulary, ebu_ContentGenreCS, ebu_EditorialFormatCodeCS|
+|**Controlled Vocabulary**|PBCoreAssetType Vocabulary, PBCore @descriptionType Vocabulary, ebu_ContentGenreCS, ebu_EditorialFormatCodeCS|AAT
 |**Example(s)**|event image; program page|
 
 |**Element:**|System ID                                                         |
@@ -281,7 +281,7 @@ Each element is presented in a table format under Element Details. Directly belo
 |**Repeatable?**|Yes|
 |**Range**|Controlled text string|
 |**Input Guidelines**|Populate to increase searchability of specific content, programs, projects, etc.|
-|**Controlled Vocabulary**|LCSH|
+|**Controlled Vocabulary**|LCSH|AAT
 |**Example(s)**|children; audience|
 
 |**Element:**|Language|
@@ -291,7 +291,7 @@ Each element is presented in a table format under Element Details. Directly belo
 |**Repeatable?**|Yes|
 |**Range**|Controlled text string|
 |**Input Guidelines**|Populate for audio, video, or textual assets|
-|**Controlled Vocabulary**|ISO 639-3|
+|**Controlled Vocabulary**|ISO 639-3|ISO 639-1
 |**Example(s)**|English; French|
 
 |**Element:**|Names|
